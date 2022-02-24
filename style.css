@@ -1,0 +1,68 @@
+.color-blue1 {
+        color: blue;
+        font-size: 20px;
+        text-align: left;
+
+}
+.youTube {
+        color:blue;
+        font-size:20px;
+        text-align:left;
+}
+.youTube:hover {
+        color:green;
+}
+
+.color-blue1:hover {
+        color: green;
+}
+
+.color-blue {
+        color: blue;
+        text-align: center;
+}
+
+
+.live1 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        height:70%;
+        object-fit: fill;       
+}
+
+.vid_box {
+        display:block;
+        height:350px;
+        width: 650px;
+        padding: 10px;
+        border: 5px solid gray;
+        margin-left: auto;
+        margin-right: auto;
+
+
+
+}
+.intro {
+        text-align:center;
+        color:salmon; 
+        font-weight: bold;
+}
+.side-bar {
+        text-align:justify;
+        color:purple;
+        font-size:30px;
+        text-decoration: underline;
+        
+
+}
+.name {
+        text-align:right;
+}
+.rightSB {
+        text-align:center;
+        color:red;
+        text-decoration:underline;
+        font-size:50px;
+}
